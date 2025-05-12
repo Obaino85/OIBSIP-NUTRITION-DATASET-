@@ -34,3 +34,4 @@ This project aims to perform an exploratory data analysis (EDA) on the nutrition
 - **Micronutrients**: A few items contribute significantly to daily Vitamin A, Calcium, or Iron requirements, but overall, most items are not strong sources of micronutrients.
 
 
+![Nutrition Dataset](https://github.com/user-attachments/assets/0f6d26df-fb59-4d2b-b80c-c92c20a53836)
